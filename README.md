@@ -1,2 +1,1 @@
-# C20
-Ball
+# C20-Student-boilerplate-code
